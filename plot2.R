@@ -5,7 +5,7 @@
 
 ############## Main ##################
 ## Load data between date 2007-02-01 to 2007-02-02.
-## Read more about loadConsumption() at part: Funtion  of this file
+## Read more about loadConsumption() at part: Function  of this file
 dfConsOfInterest <- loadConsumption()
 
 ## Draw graph and write to output file
